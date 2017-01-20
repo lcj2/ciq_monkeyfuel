@@ -1,0 +1,5 @@
+<properties>
+    <property id="APP_VERSION" type="string">---</property>
+    <property id="PROP_FUEL_DISPLAY" type="number">0</property>
+    <property id="PROP_FUEL_TYPE" type="number">0</property>
+</properties>

@@ -1,0 +1,20 @@
+<settings>
+    <setting propertyKey="@Properties.APP_VERSION" title="@Strings.AppVersion">
+        <settingConfig type="alphaNumeric" readonly="true" />
+    </setting>
+    <setting propertyKey="@Properties.PROP_FUEL_DISPLAY" title="@Strings.FieldDisplay">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.FieldCurrent</listEntry>
+            <listEntry value="1">@Strings.FieldLap</listEntry>
+            <listEntry value="2">@Strings.FieldBurnRate</listEntry>
+            <listEntry value="3">@Strings.FieldBurnAverage</listEntry>
+            <listEntry value="4">@Strings.FieldBurnLapAverage</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.PROP_FUEL_TYPE" title="@Strings.FuelType_Title">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.FuelType_Banana</listEntry>
+            <listEntry value="1">@Strings.FuelType_MonkeyFist</listEntry>
+        </settingConfig>
+    </setting>
+</settings>

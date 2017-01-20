@@ -1,0 +1,18 @@
+<strings>
+    <string id="AppName">MonkeyFuel</string>
+    <string id="AppVersion">App Version</string>
+    <string id="FieldTitle">MFuel</string>
+    <string id="FieldDisplay">Display Metric</string>
+    <string id="FieldCurrent">Fuel Earned</string>
+    <string id="FieldLap">Lap Fuel Earned</string>
+    <string id="FieldBurnRate">Burn Rate</string>
+    <string id="FieldBurnAverage">Avg Burn Rate</string>
+    <string id="FieldBurnLapAverage">Lap Avg Burn Rate</string>
+    <string id="FuelType_Title">Fuel Type</string>
+    <string id="FuelType_Banana">Banana (105 Cal)</string>
+    <string id="FuelType_Banana_Units">bananas</string>
+    <string id="FuelType_MonkeyFist">Monkey Fist IPA (207 Cal)</string>
+    <string id="FuelType_MonkeyFist_Units">bottles</string>
+    <string id="GC_BurnRate_Units">Fuel/hr</string>
+    <string id="GC_Empty_Units"> </string>
+</strings>
