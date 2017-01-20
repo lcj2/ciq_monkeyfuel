@@ -7,6 +7,6 @@
     <fitField id="4" displayInActivityLaps="true" sortOrder="1" precision="2" dataLabel="@Strings.FieldBurnAverage" unitLabel="@Strings.GC_BurnRate_Units" />
 
     <!-- SESSION : Session Data Definitions -->
-    <fitField id="2" displayInActivitySummary="true" sortOrder="0" precision="0" dataLabel="@Strings.FieldCurrent" unitLabel="@Strings.GC_Empty_Units" />
+    <fitField id="2" displayInActivitySummary="true" sortOrder="0" precision="2" dataLabel="@Strings.FieldCurrent" unitLabel="@Strings.GC_Empty_Units" />
     <fitField id="5" displayInActivitySummary="true" sortOrder="1" precision="2" dataLabel="@Strings.FieldBurnAverage" unitLabel="@Strings.GC_BurnRate_Units" />
 </fitContributions>
